@@ -1,0 +1,74 @@
+[
+    {   
+        "id":"1",
+        "topic":"Share a relaxing 3-day, 2-night Chiang Mai travel plan.",
+        "country":"Thailand",
+        "image" : ["/src/pictures/ChiangMai/713459980.jpg","/src/pictures/ChiangMai/chiangmaisudfin800.jpg","/src/pictures/ChiangMai/maeki-29.jpg"],
+        "location":"Thailand",
+        "city":["Chiang Mei"],
+        "user":{
+            "name":"Trip Trek",
+            "image":"src/pictures/Topbar/LogoG-01.png"
+        }
+    },
+    {   
+        "id":"2",
+        "topic":"15 places to chill in Nan. Plan your trip to Nan for 3 days and 2 nights..",
+        "country":"Thailand",
+        "image" : ["/src/pictures/Nan/--+F¦T-¦--+-¦-1.jpg","/src/pictures/Nan/¦-¦++-+¦++8-2.jpg","/src/pictures/Nan/15-1.jpg"],
+        "location":"Thailand",
+        "city":["Nan"],
+        "user":{
+            "name":"Trip Trek",
+            "image":"src/pictures/Topbar/LogoG-01.png"
+        }
+    },
+    {
+        "id":"3",
+        "topic":"Enjoy a 2-day, 1-night Phuket trip for salaryman.",
+        "country":"Thailand",
+        "image" : ["/src/pictures/Phuket/p6v7po4jbm8BAwu2Wwz-o.jpg","/src/pictures/Phuket/p6vhqdxofkqSZpJm6IT-o.jpg","/src/pictures/Phuket/p6vipoheiUR446dDorl-o.jpg"],
+        "location":"Thailand",
+        "city":["Phuket"],
+        "user":{
+            "name":"MAXZEEMUM",
+            "image":"src/assets/images/cartoon.jpg"
+        }
+    },
+    {
+        "id":"4",
+        "topic":"A 4-day, 3-night healing trip to Taiwan. Travel on your own, no tour is needed!",
+        "country":"International",
+        "image" : ["/src/pictures/Taiwan/1024x768_attractions-image-gizb3o6lbkyulb2f44nhhg.jpg","/src/pictures/Taiwan/oEBnEAkwA32GVAAZDP4QnABkixZPgDYZDiTIb~tplv-tej9nj120t-origin.png","/src/pictures/Taiwan/Screenshot 2024-09-17 150544.jpg"],
+        "location":"Taiwan",
+        "city":["Taoyuan", "Taipei", "Xiamen (China)", "Keelung", "New Taipei"],
+        "user":{
+            "name":"MAXZEEMUM",
+            "image":"src/assets/images/cartoon.jpg"
+        }
+    },
+    {
+        "id":"5",
+        "topic":"Japan, travel to Tokyo for 4 days and 3 nights.",
+        "country":"International",
+        "image" : ["/src/pictures/Japan/disney-01.jpeg","/src/pictures/Japan/oshino-hakkai-village.jpg","/src/pictures/Japan/tokyo-tea-01.jpg"],
+        "location":"Japan",
+        "city":["Tokyo"],
+        "user":{
+            "name":"Trip Trek",
+            "image":"src/pictures/Topbar/LogoG-01.png"
+        }
+    },
+    {   
+        "id":"6",
+        "topic":"Switzerland is a dream city in Switzerland that you must experience once in your life.",
+        "country":"International",
+        "image" : ["/src/pictures/Switz/8a25e900-fc22-11eb-9eda-f33d5d768ac6_webp_original.jpg","/src/pictures/Switz/9a7460a0-411c-11eb-9fe8-b3f90f62df5e_original.jpg","/src/pictures/Switz/e4142fb0-411c-11eb-80e3-2fbf2839b261_original.jpg"],
+        "location":"Switz",
+        "city":[],
+        "user":{
+            "name":"MAXZEEMUM",
+            "image":"src/assets/images/cartoon.jpg"
+        }
+    }
+]

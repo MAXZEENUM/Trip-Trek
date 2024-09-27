@@ -1,0 +1,76 @@
+.Login-page{
+    background: radial-gradient(white, rgb(124, 216, 103));
+    border-radius: 10px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh
+}
+
+.login-box{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    
+}
+.login-box input{
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.login-box button{
+    margin-top: 103px;
+}
+
+.register-box{
+    display: flex;
+    flex-direction: column;
+    padding: 30px; 
+}
+
+.register-box input{
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+}
+
+.register-box button{
+    margin-top: 50px;
+}
+
+.box-user{
+    overflow: hidden; 
+    position: relative; 
+    font-size: 100px;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.box-user img{
+    max-width: 100%;
+    width :500px;
+    height: auto;
+    margin: 50px 0 50px 0;
+}
+
+.custom-tab-label{
+    width:100%;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+}
